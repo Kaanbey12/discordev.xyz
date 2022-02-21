@@ -1,19 +1,19 @@
 module.exports = {
   bot: {
-    token: "OTM1ODQzMzgyMTg0NTM4MTIy.YfEiEQ.ihyF1JUC_nBzgg1A3Twrwac3_4w",
+    token: "",
     prefix: "+",
     owners: ["",""],
-    mongourl: "mongodb+srv://chelseydev:yozcan04@botlisdc.2wvyu.mongodb.net/chelseydev?retryWrites=true&w=majority",
+    mongourl: "",
     servers: {
-      token: "OTM1ODQzMzgyMTg0NTM4MTIy.YfEiEQ.ihyF1JUC_nBzgg1A3Twrwac3_4w",
+      token: "",
       prefix: "-"
     }
   },
 
   website: {
     callback: "",
-    secret: "x3RQEjdp1zYP4a97U8ZLCoAp76POZCQU",
-    clientID: "935843382184538122", // Bot client id.
+    secret: "",
+    clientID: "", // Bot client id.
     tags: ["Moderation", "Fun", "Minecraft", "Economy", "Guard", "NSFW", "Anime", "Invite", "Music", "Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish"],
     reporttags: ["Choose one...","NSFW content","API abuse","Malicious use of bot page","Copycat","Doesn't work","Other"],
     languages: [
@@ -131,8 +131,8 @@ module.exports = {
   },
 
   server: {
-    id: "887208021883748363", // DisBots.xyz Server ID
-    invite: "https://discord.gg/discodev",
+    id: "88720", // DisBots.xyz Server ID
+    invite: "https:/",
     dblinvite: "",
     roles: {
       yonetici: "928031757666746449", // Team roleid
