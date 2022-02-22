@@ -1,4 +1,4 @@
-# **Disbots.xyz are getting stronger along with <img width="128" href="https://vcodes.xyz" src="https://cdn.discordapp.com/attachments/864310216762195978/873058979796906054/vCodes.png">**
+# **Disbots.xyz and Discordev.xyz are getting stronger along with <img width="128" href="https://vcodes.xyz" src="https://cdn.discordapp.com/attachments/864310216762195978/873058979796906054/vCodes.png">**
 
 # Disbots.xyz
 **Discord Server:** [https://discord.gg/YhTU6Akzmy](https://discord.gg/YhTU6Akzmy)<br>
