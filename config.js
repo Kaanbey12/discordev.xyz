@@ -1,6 +1,6 @@
 module.exports = {
   bot: {
-    token: "",
+    token: "",//token yaz
     prefix: "+",
     owners: ["",""],
     mongourl: "",
