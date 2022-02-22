@@ -183,7 +183,7 @@ module.exports = {
       codelog: "935856969162584154", // Code Log
       login: "935857708421247036",// Login Log
       webstatus: "935857765182734376",// Website Status Log
-      uptimelog: ",// Uptime Log
+      uptimelog: "",// Uptime Log
       botlog: "935857860821282816",// bot Log
       reportlog: "945070434255269908",// bot report Log
       votes: "935857887916458015"// Vote Log Log
