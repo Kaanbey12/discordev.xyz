@@ -1,17 +1,17 @@
 module.exports = {
   bot: {
     token: "",//token yaz
-    prefix: "+",
+    prefix: "+",//ana bot ıcın prefix
     owners: ["",""],
-    mongourl: "",
+    mongourl: "",//mongourl bulup yaz
     servers: {
-      token: "",
-      prefix: "-"
+      token: "",//serverlıst için token
+      prefix: "-"//serverlıst botun ıcın prefıx
     }
   },
 
   website: {
-    callback: "",
+    callback: "",//callback discord developer portal gır botun ouath2 yerlerınde
     secret: "",
     clientID: "", // Bot client id.
     tags: ["Moderation", "Fun", "Minecraft", "Economy", "Guard", "NSFW", "Anime", "Invite", "Music", "Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish"],
